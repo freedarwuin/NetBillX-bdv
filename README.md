@@ -1,4 +1,4 @@
-# Pasarela de Pago Banco de Venezuela (Pago Móvil) para NetBillX / PHPNuxBill
+# Pasarela de Pago Banco de Venezuela (Pago Móvil) para NetBillX
 
 Integración de BDV Pago Móvil como método de pago en PHPNuxBill/Mikrotik Hotspot.
 
